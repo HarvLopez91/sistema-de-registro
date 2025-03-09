@@ -6,3 +6,5 @@ Para ejecutar el sistema, debes poner:
 
 ``` ALT + 96 para crear comillas ```
 ``` npm install react ```
+
+Sistema de registro 2
